@@ -1,3 +1,3 @@
-Cipher/Decipher
+Cipher/Decipher ⚡
 =============
-⚡ Decrypt Caesar cipher encryptions without knowing the amount of rotation or create your own encryptions ⚡
+Decrypt Caesar cipher encryptions without knowing the amount of rotation or create your own encryptions.

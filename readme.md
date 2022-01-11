@@ -2,10 +2,10 @@ Cipher/Decipher ⚡
 =============
 A short python script made to decrypt Caesar cipher encryptions without knowing the amount of rotation or to create your own encryptions.
 
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/ceaserCipher.png" width="600">
-
 ## 📜 History:
 In cryptography a Caesar cipher is one of the simplest and most widely known encryption techniques. In it, each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet. For example, with a left shift of 3, D would be replaced by A, E would become B, and so on. The method is named after Julius Caesar, who used it in his private correspondence, making the cipher over 2000 years old.
+
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/ceaserCipher.png" width="600">
 
 ## 📒 How to use my script:
 ###### To encipher: 

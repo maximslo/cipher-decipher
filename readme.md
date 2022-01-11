@@ -12,6 +12,6 @@ You might be wondering how I'm able to decode any message with high precision. F
 
 ## 📒 How to use my script:
 ###### To encipher: 
-encipher(message, amount of shift)
+  encipher(message, amount of shift)
 ###### To decipher:
-decipher(message)
+  decipher(message)
